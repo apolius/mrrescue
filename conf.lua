@@ -1,7 +1,7 @@
 function love.conf(t)
     t.identity = "mrrescue"
     t.appendidentity = false
-    t.version = "11.0"
+    t.version = "11.2"
     t.console = false
     t.accelerometerjoystick = true
     t.externalstorage = false
